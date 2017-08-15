@@ -1,2 +1,3 @@
-## Load json by using webpack
+## Bundle json by using webpack
   npm i -D json-loader
+
